@@ -1,0 +1,7 @@
+{
+  "name": "GeekOS - Mascota Tech & Anécdotas",
+  "description": "Bitácora interactiva, retos de programación, anécdotas de proyectos y dinámicas humanas de sistemas con GeekOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
